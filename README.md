@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://DeveshMudaliar.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://DeveshMudaliar.github.io)
+
 
 <h1 align="center">🖐 crafting code with Devesh Mudaliar</h1>
 <h3 align="center">📏 Indentation Enthusiast: Because Spaces Matter 🚀,Let's build something awesome together,passionate about leveraging technology to make positive impact .</h3>

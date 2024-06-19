@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://DeveshMudaliar.github.io)
+
 
 
 <h1 align="center">🖐 crafting code with Devesh Mudaliar</h1>

@@ -4,7 +4,7 @@
 <h1 align="center">🖐 crafting code with Devesh Mudaliar</h1>
 <h3 align="center">📏 Indentation Enthusiast: Because Spaces Matter 🚀,Let's build something awesome together,passionate about leveraging technology to make positive impact .</h3>
 
-🔭 I’m currently working on chat bot<br><br>🌱 I’m currently learning AI/ML<br><br>💬 Ask me about python,object oriented programming,HTML,CSS,bootstrap,JavaScript <br><br>📫 How to reach me deveshmudaliar27@gmail.com<br><br>⚡ Fun fact When I'm not coding, you'll probably find me diving into a good book,Exploring New travelling places,volunteering in the community .<br>
+🔭 I’m currently working on chat bot<br><br>🌱 I’m currently learning cloud computing <br><br>💬 Ask me about python,object oriented programming,HTML,CSS,bootstrap,JavaScript <br><br>📫 How to reach me deveshmudaliar270@gmail.com<br><br>⚡ Fun fact When I'm not coding, you'll probably find me diving into a good book,Exploring New travelling places,volunteering in the community .<br>
 
 
 ## 🌐 Hit me up :
